@@ -12,3 +12,6 @@ Create a repository in your GitHub account. Put your solution there. In the read
 
 Make sure you have a TestProgram that will validate the proposed refactored codes.
 
+##UML DIAGRAM
+![Lab Assignment 6 Dependency Inversion](https://github.com/kevinmlisboa/Lab-Assignment-6-Dependency-Inversion/assets/133233113/7ec1e4c0-1d28-4254-b829-652d19d7660f)
+
